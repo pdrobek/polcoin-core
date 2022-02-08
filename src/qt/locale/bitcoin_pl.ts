@@ -331,11 +331,11 @@
     </message>
     <message>
         <source>Syncing Headers (%1%)...</source>
-        <translation>Synchronizowanie headerów (%1%)...</translation>
+        <translation>Synchronizowanie nagłówków (%1%)...</translation>
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Ponowne indeksowanie bloków na dysku...</translation>
+        <translation>Ponowne indeksowanie bloków...</translation>
     </message>
     <message>
         <source>Proxy is &lt;b&gt;enabled&lt;/b&gt;: %1</source>
@@ -1768,7 +1768,7 @@
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>$Ruch sieci</translation>
+        <translation>Aktywność sieci</translation>
     </message>
     <message>
         <source>Totals</source>

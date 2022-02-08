@@ -170,7 +170,7 @@ QString Intro::getDataDirectory()
 void Intro::setDataDirectory(const QString &dataDir)
 {
 int pos = dataDir.lastIndexOf(QChar('\\'));
-    ui->dataDirectory->setText(dataDir.left(pos)+"\\Polcoin");
+    //ui->dataDirectory->setText(dataDir.left(pos)+"\\Polcoin");
     if(dataDir == getDefaultDataDirectory())
     {
         ui->dataDirDefault->setChecked(true);

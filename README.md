@@ -22,13 +22,15 @@ RPC port: 9337
 
 Retarget every 360 blocks (6 hours)
 
-Current main version: 1.18.0.14 (code name: After Dusk)
+Current main version: 1.18.0.15 (code name: One step closer)
 
 ## Community
 
 You can find more information about Polcoin on [polcoin.pl](https://polcoin.pl/).
 
 If you have any trouble write on [Polcoine official forum](https://forum.polcoin.pl).
+
+Join our telegram [Polcoin](https://t.me/Polcoin)
 
 We are also on [Bitcointalk.org](https://bitcointalk.org/index.php?topic=945549.0)
 

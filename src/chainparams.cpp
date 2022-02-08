@@ -116,9 +116,7 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        vSeeds.emplace_back("seed.polcoin.pl");
 		vSeeds.emplace_back("polcoin.pl");
-		vSeeds.emplace_back("gielda.polcoin.pl");
 		vSeeds.emplace_back("kopalnia.polcoin.pl");
 		vSeeds.emplace_back("eksplorator.polcoin.pl");
 

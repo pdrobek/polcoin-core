@@ -198,7 +198,7 @@ QString formatBitcoinURI(const SendCoinsRecipient &info)
         paramCount++;
     }
 
-    return ret;
+    return "polcoin:"+ret;
 }
 
 bool isDust(interfaces::Node& node, const QString& address, const CAmount& amount)
