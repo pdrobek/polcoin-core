@@ -147,7 +147,7 @@ Intro::Intro(QWidget *parent, uint64_t blockchain_size, uint64_t chain_state_siz
     }
     requiredSpace += 3;
     ui->sizeWarningLabel->setText(
-        tr("%1 will download and store a copy of the Bitcoin block chain.").arg(tr(PACKAGE_NAME)) + " " +
+        tr("%1 will download and store a copy of the Polcoin block chain.").arg(tr(PACKAGE_NAME)) + " " +
         storageRequiresMsg.arg(requiredSpace) + " " +
         tr("The wallet will also be stored in this directory.")
     );
@@ -171,16 +171,16 @@ void Intro::setDataDirectory(const QString &dataDir)
 {
 int pos = dataDir.lastIndexOf(QChar('\\'));
     //ui->dataDirectory->setText(dataDir.left(pos)+"\\Polcoin");
-    if(dataDir == getDefaultDataDirectory())
-    {
-        ui->dataDirDefault->setChecked(true);
-        ui->dataDirectory->setEnabled(false);
-        ui->ellipsisButton->setEnabled(false);
-    } else {
+//    if(dataDir == getDefaultDataDirectory())
+//    {
+//        ui->dataDirDefault->setChecked(true);
+//        ui->dataDirectory->setEnabled(false);
+//        ui->ellipsisButton->setEnabled(false);
+//    } else {
         ui->dataDirCustom->setChecked(true);
         ui->dataDirectory->setEnabled(true);
         ui->ellipsisButton->setEnabled(true);
-    }
+//    }
 }
 
 QString Intro::getDefaultDataDirectory()

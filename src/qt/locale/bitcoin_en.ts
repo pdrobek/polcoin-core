@@ -76,7 +76,7 @@
     <message>
         <location line="+6"/>
         <source>Sending addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Sending addresses</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -85,13 +85,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished"></translation>
+        <source>These are your Polcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Polcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+5"/>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation type="unfinished"></translation>
+        <source>These are your Polcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your Polcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -221,8 +221,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR POLCOINS&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR POLCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -237,8 +237,8 @@
     </message>
     <message>
         <location line="-56"/>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your polcoins from being stolen by malware infecting your computer.</source>
+        <translation>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your polcoins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -436,8 +436,8 @@
     </message>
     <message>
         <location line="-1017"/>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Send coins to a Bitcoin address</translation>
+        <source>Send coins to a Polcoin address</source>
+        <translation>Send coins to a Polcoin address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -466,8 +466,8 @@
     </message>
     <message>
         <location line="+707"/>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Polcoin</source>
+        <translation>Polcoin</translation>
     </message>
     <message>
         <location line="-780"/>
@@ -496,13 +496,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Bitcoin addresses to prove you own them</translation>
+        <source>Sign messages with your Polcoin addresses to prove you own them</source>
+        <translation>Sign messages with your Polcoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Bitcoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Polcoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Polcoin addresses</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -526,8 +526,8 @@
     </message>
     <message>
         <location line="-257"/>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished"></translation>
+        <source>Request payments (generates QR codes and polcoin: URIs)</source>
+        <translation>Request payments (generates QR codes and polcoin: URIs)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -541,8 +541,8 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a bitcoin: URI or payment request</source>
-        <translation type="unfinished"></translation>
+        <source>Open a polcoin: URI or payment request</source>
+        <translation>Open a polcoin: URI or payment request</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -551,10 +551,10 @@
     </message>
     <message numerus="yes">
         <location line="+524"/>
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to Polcoin network</source>
         <translation>
-            <numerusform>%n active connection to Bitcoin network</numerusform>
-            <numerusform>%n active connections to Bitcoin network</numerusform>
+            <numerusform>%n active connection to Polcoin network</numerusform>
+            <numerusform>%n active connections to Polcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -642,8 +642,8 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the %1 help message to get a list with possible Bitcoin command-line options</source>
-        <translation type="unfinished"></translation>
+        <source>Show the %1 help message to get a list with possible Polcoin command-line options</source>
+        <translation>Show the %1 help message to get a list with possible Polcoin command-line options</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -773,8 +773,8 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+392"/>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation type="unfinished"></translation>
+        <source>A fatal error occurred. Polcoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. Polcoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1011,8 +1011,8 @@
     </message>
     <message>
         <location line="+75"/>
-        <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation type="unfinished"></translation>
+        <source>The entered address &quot;%1&quot; is not a valid Polcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Polcoin address.</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -1131,8 +1131,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+22"/>
-        <source>Bitcoin</source>
-        <translation type="unfinished">Bitcoin</translation>
+        <source>Polcoin</source>
+        <translation type="unfinished">Polcoin</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1146,8 +1146,8 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 will download and store a copy of the Bitcoin block chain.</source>
-        <translation type="unfinished"></translation>
+        <source>%1 will download and store a copy of the Polcoin block chain.</source>
+        <translation>%1 will download and store a copy of the Polcoin block chain.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1190,13 +1190,13 @@
     </message>
     <message>
         <location line="+119"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the bitcoin network, as detailed below.</source>
-        <translation type="unfinished"></translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the polcoin network, as detailed below.</source>
+        <translation>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the polcoin network, as detailed below.</translation>
     </message>
     <message>
         <location line="+19"/>
-        <source>Attempting to spend bitcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation type="unfinished"></translation>
+        <source>Attempting to spend polcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Attempting to spend polcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</translation>
     </message>
     <message>
         <location line="+63"/>
@@ -1428,8 +1428,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Polcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Polcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1448,8 +1448,8 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation type="unfinished"></translation>
+        <source>Connect to the Polcoin network through a SOCKS5 proxy.</source>
+        <translation>Connect to the Polcoin network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1496,8 +1496,8 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Bitcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation type="unfinished"></translation>
+        <source>Connect to the Polcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Connect to the Polcoin network through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
         <location line="+105"/>
@@ -1557,7 +1557,7 @@
     <message>
         <location line="+41"/>
         <source>Options set in this dialog are overridden by the command line or in the configuration file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Options set in this dialog are overridden by the command line or in the configuration file</translation>
     </message>
     <message>
         <location line="+141"/>
@@ -1636,8 +1636,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Polcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Polcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1734,8 +1734,8 @@
     </message>
     <message>
         <location line="-529"/>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation type="unfinished"></translation>
+        <source>Cannot start polcoin: click-to-pay handler</source>
+        <translation>Cannot start polcoin: click-to-pay handler</translation>
     </message>
     <message>
         <location line="+62"/>
@@ -1749,8 +1749,8 @@
     </message>
     <message>
         <location line="-53"/>
-        <source>&apos;bitcoin://&apos; is not a valid URI. Use &apos;bitcoin:&apos; instead.</source>
-        <translation type="unfinished"></translation>
+        <source>&apos;polcoin://&apos; is not a valid URI. Use &apos;polcoin:&apos; instead.</source>
+        <translation>&apos;polcoin://&apos; is not a valid URI. Use &apos;polcoin:&apos; instead.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1775,8 +1775,8 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Polcoin address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid Polcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -1908,8 +1908,8 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+107"/>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation type="unfinished"></translation>
+        <source>Enter a Polcoin address (e.g. %1)</source>
+        <translation>Enter a Polcoin address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+687"/>
@@ -2535,8 +2535,8 @@
     <message>
         <location line="-3"/>
         <location line="+46"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation type="unfinished"></translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Polcoin network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Polcoin network.</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2884,8 +2884,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+543"/>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation type="unfinished"></translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for polcoin transactions than the network can process.</source>
+        <translation>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for polcoin transactions than the network can process.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3075,8 +3075,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+101"/>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation type="unfinished"></translation>
+        <source>Warning: Invalid Polcoin address</source>
+        <translation>Warning: Invalid Polcoin address</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3130,8 +3130,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+39"/>
-        <source>The Bitcoin address to send the payment to</source>
-        <translation type="unfinished"></translation>
+        <source>The Polcoin address to send the payment to</source>
+        <translation>The Polcoin address to send the payment to</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -3157,8 +3157,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="-1028"/>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation type="unfinished"></translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less polcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>The fee will be deducted from the amount being sent. The recipient will receive less polcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3192,8 +3192,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+54"/>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation type="unfinished"></translation>
+        <source>A message that was attached to the polcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Polcoin network.</source>
+        <translation>A message that was attached to the polcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Polcoin network.</translation>
     </message>
     <message>
         <location line="+448"/>
@@ -3249,13 +3249,13 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+6"/>
-        <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished"></translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive polcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>You can sign messages/agreements with your addresses to prove you can receive polcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The Bitcoin address to sign the message with</source>
-        <translation type="unfinished"></translation>
+        <source>The Polcoin address to sign the message with</source>
+        <translation>The Polcoin address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3296,8 +3296,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Sign the message to prove you own this Bitcoin address</translation>
+        <source>Sign the message to prove you own this Polcoin address</source>
+        <translation>Sign the message to prove you own this Polcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3327,13 +3327,13 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>The Bitcoin address the message was signed with</source>
-        <translation type="unfinished"></translation>
+        <source>The Polcoin address the message was signed with</source>
+        <translation>The Polcoin address the message was signed with</translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Bitcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Polcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Polcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4190,8 +4190,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="-170"/>
-        <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <source>Polcoin Core</source>
+        <translation type="unfinished">Polcoin Core</translation>
     </message>
     <message>
         <location line="+1"/>
